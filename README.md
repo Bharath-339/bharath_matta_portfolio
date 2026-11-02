@@ -1,28 +1,28 @@
 # Matta Bharath Kumar — Data Engineering Portfolio
 
-Personal portfolio for **Matta Bharath Kumar**, Data Engineer at HashedIn by Deloitte.
+Personal portfolio website and web-formatted résumé for **Matta Bharath Kumar**, Data Engineer at HashedIn by Deloitte.
 
-## Website
+## Live website
 
-The site is a static, responsive HTML page. No build step or package installation is required.
+Once GitHub Pages is enabled, the site is available at:
+
+https://bharath-339.github.io/bharath_matta_portfolio/
 
 ## Files
 
-- `index.html` — portfolio website (GitHub Pages entry point).
-- `Bharath_Resume.pdf` — résumé PDF linked from the site.
+- `index.html` — responsive portfolio landing page and selected public GitHub projects.
+- `resume.html` — web-formatted résumé. Use **Print / Save as PDF** to export a PDF copy from your browser.
 
 ## Run locally
 
-Open `index.html` in a browser. Google Fonts are loaded from the web, so an internet connection improves typography; the rest of the site is static.
+Open `index.html` in a browser. No build tool or package installation is required.
 
-## Publish with GitHub Pages
+## Enable GitHub Pages
 
 1. Open **Settings → Pages** in this repository.
 2. Under **Build and deployment**, select **Deploy from a branch**.
 3. Select branch **main** and folder **/(root)**, then Save.
-4. Wait for the Pages deployment. GitHub will display the published URL in the Pages settings.
-
-Expected URL: https://bharath-339.github.io/bharath_matta_portfolio/
+4. Wait for the Pages deployment. GitHub will display the published URL in the Pages section.
 
 ## Featured public projects
 
